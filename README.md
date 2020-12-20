@@ -1,4 +1,5 @@
-Project Datawarehousing
+Project Datawarehousing with Amazon Redshift
+
 Context:
 
 A Music streaming start up Sparkify has a growing user base and song database; their user activity and songs metadata resides in json files in an S3 bucket. My goal for this project is to build an ETL pipeline that extracts the data from S3 bucket and stage them in Redshift and transform them into Fact and dimensional tables for the analytics team at Sparkify to perform their analysis in the pursuit of finding the insights of various songs their users are listening to.
